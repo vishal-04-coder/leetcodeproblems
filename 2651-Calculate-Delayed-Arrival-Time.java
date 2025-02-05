@@ -8,9 +8,7 @@ class Solution {
         else if(sum>24){
             sum=sum%24;
         }
-        else{
-            return sum;
-        }
+       
         return sum;
     }
 }
